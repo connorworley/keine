@@ -1,0 +1,7 @@
+[package]
+name = "keine"
+version = "0.1.0"
+authors = ["Connor Worley <connorbworley@gmail.com>"]
+edition = "2018"
+
+[dependencies]
